@@ -1,0 +1,24 @@
+/* Import Google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Lobster&display=swap');
+
+/* Update headers */
+
+h2 {
+  font-family: "Hachi Maru Pop";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Lobster";
+  font-size: 25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Lobster";
+  font-size: 18px;
+  color: teal;
+  background-color: yellow;
+}
